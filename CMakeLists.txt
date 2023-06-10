@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.23)
 project(CPH351)
 
-file(GLOB children RELATIVE ${CMAKE_SOURCE_DIR} ${CMAKE_SOURCE_DIR}/*)
-
 # add_subdirectory(extraRes) # No CMakeLists.txt
 add_subdirectory(DSTimer)
 add_subdirectory(HelloOpenMP)
