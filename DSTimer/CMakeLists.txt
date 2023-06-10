@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.9)
+project(DSTimer LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 23)
+set(ROOT_DIR ${PROJECT_SOURCE_DIR})
+file(GLOB PROJECT_SRC ${ROOT_DIR}/*)
+set(SOURCES ${PROJECT_SRC})
+
+add_library(DSTimer STATIC ${SOURCES})
