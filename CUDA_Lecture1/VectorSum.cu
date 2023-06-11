@@ -91,7 +91,7 @@ int main(void) {
     bool result = true;
     for (int i = 0; i < NUM_DATA; i++) {
         if (h_c[i] != c[i]) {
-            printf("[%d] The resutls is not matched! (%d, %d)\n", i, h_c[i], c[i]);
+            printf("[%d] The results is not matched! (%d, %d)\n", i, h_c[i], c[i]);
             result = false;
         }
     }
