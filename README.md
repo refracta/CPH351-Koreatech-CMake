@@ -1,5 +1,3 @@
-<script data-ad-client="ca-pub-9752881073299954" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 # [CPH351](https://sites.google.com/view/hpclab/courses/multicore-programming) Multi-core programming, [KOREATECH](https://www.koreatech.ac.kr/)
 Instructor : [Duksu Kim](https://sites.google.com/view/duksukim/)
 
