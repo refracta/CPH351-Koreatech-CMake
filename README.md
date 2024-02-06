@@ -1,3 +1,6 @@
+# CPH351-Koreatech
+본 레포지토리는 멀티코어 프로그래밍 과목의 소스 코드를 CMake를 이용하여 빌드할 수 있도록 수정한 것 입니다. CMake 기반 빌드 시스템을 갖춘 IDE 또는 CMake 명령어를 이용하여 손쉽게 본 과목의 예제 프로그램들을 빌드하여 실행해볼 수 있습니다.
+
 # [CPH351](https://sites.google.com/view/hpclab/courses/multicore-programming) Multi-core programming, [KOREATECH](https://www.koreatech.ac.kr/)
 Instructor : [Duksu Kim](https://sites.google.com/view/duksukim/)
 
